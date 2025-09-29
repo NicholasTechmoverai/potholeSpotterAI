@@ -17,6 +17,11 @@ automatedPatholeSpotter/
 # 🔧 Setup & Usage
 #######################################
 
+
+# ASSUMING YOU HAVE PYTHON INSTALLED IF NOT DOWNLOAD IT FROM THIS LINK AND INSTALL IT 
+https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
+
+
 # 1️⃣ Clone the repository
 git clone https://github.com/NicholasTechmoverai/potholeSpotterAI.git
 cd potholeSpotterAI
