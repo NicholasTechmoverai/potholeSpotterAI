@@ -1,12 +1,18 @@
-segmentation-models-pytorch
-opencv-python
-torch
-torchvision
-azure-cognitiveservices-vision-customvision
-fastapi
-# "uvicorn[standard]"
-python-multipart
-torchvision 
-torchaudio
-ultralytics
-aiohttp
+# Core ML stack
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+segmentation-models-pytorch>=0.3.3
+ultralytics>=8.0.0
+geocoder
+# Computer Vision
+opencv-python>=4.8.0
+
+# API & Server
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+aiohttp>=3.9.0
+
+# Azure (optional – if you integrate with Azure CV)
+# azure-cognitiveservices-vision-customvision>=3.1.0

@@ -7,4 +7,6 @@ _pycache_
 
 potholes
 .potholes
-detect
+detections
+pothole_detections.db
+pothole_detector.log
